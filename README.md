@@ -1,5 +1,20 @@
 # Swiggy Sales & Customer Behavior Analytics (Excel Project)
 
+## 📦 Full Working File Access
+
+Due to GitHub’s file size restrictions, the complete Excel dashboard file is hosted externally.
+
+🔗 Download full working version:
+
+https://1drv.ms/x/c/49c4e53e14f8b7f7/IQDrboCmCxf8RoENjKKfaQ1tAYPmaYgwx57CGMXcgyyO2Jo?e=sBg5h6
+This file contains:
+• Complete Anylized Data Sheet 
+• Pivot models and slicers 
+• Final interactive dashboard  
+
+Dashboard screenshots and a  raw dataset are maintained in this repository to showcase structure, transformations, and analytical design.
+
+
 ## 📌 Project Overview
 
 This project analyzes Swiggy food delivery data to understand **sales performance, customer behavior, pricing patterns, and geographic demand** using Microsoft Excel.
